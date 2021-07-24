@@ -1,0 +1,45 @@
+.main{
+    text-align: center;
+    margin-top: 300px;
+}
+
+.btn{
+    width: 100px;
+    height: 50px;
+    background-color: coral;
+    margin-left: 10px;
+    text-align: center;
+
+
+}
+
+.insta{
+    background: linear-gradient(45deg, rgba(254,212,117,1) 0%,rgba(229,61,93,1) 50%,rgba(194,49,134,1) 70%,rgba(156,56,187,1) 100%);
+    box-shadow: 0 5px 25px rgba(0,0,0,.15);
+    color: #fff;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    transition: all .2s linear;
+    width: 150px;
+    height: 50px;
+    border-radius: 30%;
+}
+
+.flex{
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    margin-left: 518px;
+
+}
+
+.question{
+    background-color: khaki;
+    text-align: center;
+}
